@@ -31,6 +31,7 @@ Other things you might be interested in:
 - I'm generally quick at picking up new languages and over the years I've delivered software in Python, Rust, Go, Dart/Flutter, JavaScript, Java, C, C++, Ruby, PHP (maybe more?).
 - I do like open source, but I'm actually very shy when it come to sharing my work so 98% of my code is not public, as this content is public *but hidden in a comment*. I'm working on that.
 - Topics I enjoy a lot are: Programming Languages, Computer Graphics and Artificial Intelligence.
+- Whenever possible, I push my new code on https://codeberg.org/akiross but I didn't set up a mirror with GH yet.
 
 Also, I'm a nerd.
 -->
