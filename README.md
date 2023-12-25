@@ -24,6 +24,7 @@ Being CTO in a small company means I get to do many interesting and very technic
 Other things you might be interested in:
 
 - I'm a very happy neovim user!
+  - But I'm curious about helix and I'd like to see how it would work in the long term.
 - I'm a very happy GNU/Linux user (I spent significant amount of time using the commands `emerge`, then `yum`/`dnf` and since 2020 `nix`)!
 - I've been using Rust since 2019; it is the language I like the most.
 - I've been using Python for a long time, since python 2.6; it is the language I use the most.
