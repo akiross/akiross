@@ -36,5 +36,5 @@ Other things you might be interested in:
 - Topics I enjoy a lot are: Programming Languages, Computer Graphics and Artificial Intelligence.
 - Whenever possible, I push my new code on https://codeberg.org/akiross but I didn't set up a mirror with GH yet.
 
-Also, I'm a nerd. I think.
+Also, I'm a nerd.
 -->
