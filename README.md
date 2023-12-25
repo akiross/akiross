@@ -30,6 +30,7 @@ Other things you might be interested in:
 - I've been using Python for a long time, since python 2.6; it is the language I use the most.
 - I've been using Elm for front-end since a couple of years and, man, it's great. I'm also keeping an eye on gren-lang, roc-lang and gleam.
   - Elm, with Rust and Nix, contributed pushing me towards functional languages.
+  - I'm currently (slowly) learning Haskell: I don't mean to become proficient with it, but at least being able to read the code and be familiar with the core concepts, structures and idioms.
 - I'm generally quick at picking up new languages and over the years I've delivered software in Python, Rust, Go, Dart/Flutter, JavaScript, Java, C, C++, Ruby, PHP (maybe more?).
 - I do like open source, but I'm actually very shy when it come to sharing my work so 98% of my code is not public, as this content is public *but hidden in a comment*. I'm working on that.
 - Topics I enjoy a lot are: Programming Languages, Computer Graphics and Artificial Intelligence.
